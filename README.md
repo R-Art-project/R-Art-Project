@@ -3,7 +3,7 @@
 <br/>
 
 ### Connect with me:
-[<img align="left" alt="R-Art-project" width="22px" src="https://img.icons8.com/fluent-systems-filled/48/000000/domain.png" />][website]
+[<img align="left" alt="R-Art-project" width="22px" src="https://img.icons8.com/fluent/48/000000/domain.png" />][website]
 [<img align="left" alt="R-Art-project | LinkedIn" width="22px" src="https://img.icons8.com/ios-filled/50/000000/linkedin-circled.png" />][linkedin]
 
 <br/>
